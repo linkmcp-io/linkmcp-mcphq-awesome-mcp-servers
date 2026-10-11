@@ -3755,7 +3755,7 @@
     ],
     "official": false,
     "endpoints": {
-      "streamableHttp": "https://app.linkmcp.io/api/mcp"
+      "streamableHttp": "https://app.linkmcp.io/api/mcp?ref=mcphq"
     }
   },
   {
